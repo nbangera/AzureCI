@@ -13,6 +13,9 @@
     },
     "administratorLoginPassword": {
       "value": "R@ve12345"
+    },
+    "redis-cache-service-datastoreName": {
+      "value": "R@ve12345"
     }
   }
 }
