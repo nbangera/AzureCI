@@ -15,7 +15,7 @@
       "value": "R@ve12345"
     },
     "redis-cache-service-datastoreName": {
-      "value": "R@ve12345"
+      "value": "redis-store-12345"
     }
   }
 }
