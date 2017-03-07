@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "hostingPlanName": {
-        "value": "mazheraccount"
+        "value": "F1"
       },
         "administratorLogin": {
             "value": "adminRave"
